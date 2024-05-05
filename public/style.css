@@ -1,0 +1,16 @@
+h1{
+    color: maroon;
+}
+
+.post{
+    background-color: lightyellow;
+}
+
+.username{
+    font-style: italic;
+    color: black;
+}
+
+.content{
+    color: lightcoral;
+}
